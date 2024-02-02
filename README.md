@@ -1,2 +1,2 @@
-# bcn_karaparty
-Un gestor 
+# Karaparty Gestor
+Un gestor de karaoke 
