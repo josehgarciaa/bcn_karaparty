@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "karaparty-413019",
+  "private_key_id": "5a8c8aa0269e11c91f2c89dca0389a89d2f9b5ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQvi/6zcpXVCPz\nOQG2j1rXi3FTJQNfaLz2vMVG1+e+oyDQ5R1/bKLkDbIuQnw8L+d9LEbxnC7fPZpY\naqzFJEotqZ73hcg/YFPq1PwhpP6Qhr9qfRGw8kt/t22Udi5/5oaltM/o9UQhmw2W\n+ZYFQ2hy3bIRuv8vaONSnn+sfGBIAUkzIRYrLhPkka6A6b9tHYwO5cYPDPVSpCjL\nAT2fLxOnxcoIpKawl7/oT6TZaa2sw09ooHZhAKUQuak8O6kRSRaUs9PXyzI6QHsM\ndOSwliwTAE7jUO0BleDZYOYqTiieYAGkQnJ4bypJ+Flg9DzhQVIEC5DooNbuGpyb\nJfU8Ns2PAgMBAAECggEAIjE1DMEOxtU6ekm5NR0wRSRLMNJcRhGS+lubeOo+xKRV\n6MHO3iN+Xxq7OAad8QHryj4pdMQfjWO614bJvBUgrXAeYO8iCPePZ2Tx09UB+cyI\nqDnKXxChO09hfLMLFNo+7f+7Gq6qNVL/m95QK5aKEl6sH2lhCXQF4G+j/C33W3PG\ni8B4nsIVnwGMjouSn4UUNMV5+4XyoTXOHGXDkMC6iCFSGUhd5GaxWQdKgX3Ut63N\nT66uYJGG34wWZlSOF8iy/oeVuTFIuC6UdAf004KIR6CbMIt+EVcNbSDG/aGf7jsC\nskQSn7wSOB2tmbZUZtqUm4rMDUVyUmVbFWcsKKvqkQKBgQD4UVfKL+h0lWLLOOx7\naniRaYggp+ML6BbIBSYcf5goTK68bE0iIneqyhnZ17IkV8OcNn5KgXHERZjRJtad\nKWcZgiatXdfYjq0tOaiParjPkkRoMyFhS+pW6QvvJqYRp/AqJweBY9KY2gxnJ+KB\n6NaONiB/FIhrfOvduTfn7D369wKBgQDXM2o7nerHd0QrgyCabjPat9TE1Wk/ElrW\njKxdqMB0VnGAECIGN9UEdJfpXpHspMFjLUTR6mMVhJbRTQ4jGd8bvAstRzQY/ERt\nEpRqLQHgX82+Q3lKZWW+WceMScbQvGsApJVrtSJykw0Tpb4kohEQfn9QTn3Htfc3\nxRetBWBEKQKBgAkAqfYiloLjh5lmjuxKh+R9tvm4HHsqBulphmAyIAoV/Z/HLWS3\nay899IH5V/QJWoYnU5zP5JgBDfFHPzCjd6FtHonahSDMy2qAVKQecmTUILbGY8dr\nQSu1d0FMXWj2dbaRg6wlOlVgUmLLB2M+VckCHVt+GxQKi2KWfHhkEDsxAoGBAMFb\npBb+9AXXBrxl7HR1kkfyJs3YxuDx2AawjOr2hj3BseeUF04o+lAvhpMb8teCzXQU\nJ6LJC9A4ut5CcvJc+5dK5WwAbzIH8F9kc0/XMrlsu0s6CxAqfTmEJ4TIgUfqE+aW\n+t60+MejkvtVT7xQli6QyknYzLEVsZQ9leFTVETJAoGBAN1CVzqgsKhMidwBlJqi\nNxdQ9jr9IWo4PQ00q+6N4NfeHjhlxwkR0Nc1gWQRTAlU8aQtFkjcUyHBC/bzfemN\n2DDy7OOR/ksYLM3f0U1DUimq2uhJswFvqor1/hr8Pj2d0x8fdygkT0dQYSsA/WXV\nogr+tvXJxBOIsdfFHHo72jCL\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheet@karaparty-413019.iam.gserviceaccount.com",
+  "client_id": "117606510558502893342",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet%40karaparty-413019.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
